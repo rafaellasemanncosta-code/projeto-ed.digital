@@ -1,0 +1,16 @@
+.foto {
+     width: 25%;
+}
+ 
+body{
+    background-color: #00FFFF
+    display: flex;
+
+    align-items:center;
+    justify-content: space-evenly
+}
+
+div{ margin: 19px;
+     padding: 2px;
+    
+}
